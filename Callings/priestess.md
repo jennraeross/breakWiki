@@ -1,4 +1,5 @@
 # Priestess
+> Author: jennraeross
 
 Priestesses (or Priests, we don't discriminate) practice the traditional Bright Magic of their Religion, passed down by rote over the centuries. They excel at protecting and empowering their friends, and derive power from the sheer force of their Faith.
 

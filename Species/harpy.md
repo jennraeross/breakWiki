@@ -1,4 +1,5 @@
 # Harpy
+> Author: jennraeross
 
 A reclusive people who rarely leave their mountain crags, Harpies are very territorial and dislike the presence of outsiders. Amid a harsh mountain environment, they have formed a society built on individual sacrifice for collective good.
 

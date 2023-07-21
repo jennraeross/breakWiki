@@ -1,4 +1,5 @@
 # Dryad
+> Author: jennraeross
 
 Unlike most other species, Dryads are not born, but awakened. They begin their lives as ordinary trees, which when exposed to sufficiently large amounts of mana over their lifetime will create a dryad as a magical construct. On rare occassions, a long lived tree may produce multiple Dryads over it's live span, which will be identical in appearance and temperament.
 

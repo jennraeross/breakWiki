@@ -1,4 +1,5 @@
 # Kobold
+> Author: jennraeross
 
 Dwelling deep within their caves in the wild parts of the Buried Kingdom, Kobolds bide their time, always believing that the time for them to claim the surface for themselves will come. Self assured that their draconic appearance must mean they have relations to beings as mighty as the one that broke the Sun Machine, they really can't fathom any destiny for themselves that *doesn't* involve conquest and rule of the other species.
 

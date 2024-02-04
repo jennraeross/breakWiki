@@ -7,13 +7,13 @@ Where other practitioners gain their magic through study or outside sources of p
 
 **Typical Druids** Wise Hermits, Cunning Wildlings, Weary Travelers, and Precocious Animal Lovers.
 
-**Abilities** Druids often find themselves without peer in navigating and surviving the wilderness, given their understanding of the natural world. In combat, they may take to the frontlines by imitating the forms and techniques of animals they've understood, or they may instead hinder their enemies from afar by causing the very land around them to fight on their behalf.
+**Abilities** Druids often find themselves without peer in navigating and surviving the wilderness, given their understanding of the natural world. In combat, they are capable of hindering their enemies from afar, causing the very land around them to fight on their behalf.
 
-**Advancement** Druids find themselves with a wider variety of alternate forms and magics to call on as they rise in Rank.
+**Advancement** Druids find themselves with a wider variety of magics to call on as they rise in Rank.
 
 **Aptitudes** The rough and tumble life of a druid leads to an abundance of Grit, but the inherent loneliness of the vocation makes social interaction, and the resultant Aura, difficult to obtain.
 
-**Who'd like to be a Druid?** Those who feel particularly drawn to the natural world, or who have a desire to adopt a multitude of shapes will find themselves at home in the calling of a Druid.
+**Who'd like to be a Druid?** Those who feel particularly drawn to the natural world, or a particular attachment to animals will find themselves at home in the calling of a Druid.
 
 ## Abilities
 
